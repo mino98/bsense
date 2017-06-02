@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/BSenseWebserver/dl
+END
+latest_Win.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/BSenseWebserver/dl/latest_Win.xml
+END
+latest_Linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/BSenseWebserver/dl/latest_Linux.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/BSenseWebserver/dl/index.html
+END
+latest_Mac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/BSenseWebserver/dl/latest_Mac.xml
+END

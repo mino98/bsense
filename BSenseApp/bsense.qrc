@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bsense-green.svg</file>
+        <file>images/bsense-red.svg</file>
+        <file>images/bsense-yellow.svg</file>
+    </qresource>
+</RCC>

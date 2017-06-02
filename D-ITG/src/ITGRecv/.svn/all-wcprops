@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/D-ITG/src/ITGRecv
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/D-ITG/src/ITGRecv/Makefile
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/D-ITG/src/ITGRecv/data.h
+END
+ITGRecv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/D-ITG/src/ITGRecv/ITGRecv.cpp
+END
+ITGRecv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/D-ITG/src/ITGRecv/ITGRecv.h
+END
+data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/D-ITG/src/ITGRecv/data.cpp
+END

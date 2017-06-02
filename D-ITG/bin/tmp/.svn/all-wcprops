@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/D-ITG/bin/tmp
+END
+scriptfile_delay
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/D-ITG/bin/tmp/scriptfile_delay
+END
+scriptfile_tcp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/D-ITG/bin/tmp/scriptfile_tcp
+END
+scriptfile_udp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/D-ITG/bin/tmp/scriptfile_udp
+END

@@ -1,0 +1,8 @@
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3100
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3101
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3102
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3103
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3104
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3105
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3106
+-a 10.0.0.1 -C 400 -c 1024 -t 15000 -T UDP -m rttm -Sdp 3000 -rp 3107

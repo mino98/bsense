@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE XML>
+<appname>
+  <version value="0.5.5" />
+  <files>
+    <file value="Contents/Info.plist" />
+    <file value="Contents/MacOS/bsense" />
+    <file value="Contents/Resources/bsense-green.icns" />
+    <file value="Contents/Resources/empty.lproj" />
+    <file value="Contents/Resources/bin/ITGSend" />
+    <file value="Contents/Resources/bin/ITGRecv" />
+    <file value="Contents/Resources/bin/ITGDec" />
+  </files>
+</appname>

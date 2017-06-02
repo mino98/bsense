@@ -1,0 +1,146 @@
+- v2.7.0-Beta2: Beta.
+Improvements
+    Added support for 64 bit processors
+    Adopted new version of newran library
+
+Bug Fixing
+    Corrected behavior of ITGRecv with DCCP in RTTM mode
+    Corrected a bug in the compilation with SCTP enabled
+    Corrected behavior of IPv6 under Windows
+
+- v2.7.0-Beta: Beta.
+New Features
+    Added Burst (aka On/Off) and Weibull traffic types
+    Added the possibility to bind to a specific network interface
+    ITGDec now reports the average loss-burst size also
+
+Improvements
+    Added support for compiling under Spark64 (thanks to Gerrit Renker)
+     
+Bug Fixing
+    Fixed compilation errors with g++ 4.3.1
+    Fixed a bug in ITGDec which caused an 'Error opening file ...' error
+	 
+- v2.6.1d: Stable.
+License
+    D-ITG is now released under GPLv3 license
+
+Improvements
+    Added MinGW makefile to compile Win32 binaries on linux
+     
+Bug Fixing
+    Fixed a lot of warnings shown using gcc 4.2.3 version
+	 
+- v2.6.1c: Stable
+Bug Fixing
+    1. fixed problem related to ITGDec options -b, -j, -p and -d
+    2. addedd Sleep(1000) call into waitStopKey() functions to solve some timing problems
+
+- v2.6.1b: Stable
+Improvements
+    1. Linux: simplified method to enable DCCP, SCTP and DEBUG without modifying "Makefile"
+    2. Windows: simplified method to enable IPv6 and DEBUG without modifying "win.mk"
+    3. Improved installation guide (see INSTALL file)
+
+Bug Fixing
+    1. fixed compilation problem related to IPv6 DS byte setting with old kernel and libc versions
+
+- v2.6.1: Stable
+New Features
+    1. added modifications suggested by Volker Semken to let GUI work better
+
+Bug Fixing
+Some of the fixed bugs are related to:
+    1. now IPv6 version works again both under Linux and Windows
+    2. IPv6 DS byte now works correctly
+    3. now the Sender logfile pathname can contain spaces 
+       (only in command-line mode at the moment)
+    4. A lot of warning fixed both under Linux and Windows
+	
+- v2.6: Stable.
+License
+    D-ITG is no more released under GPL license. The new one is reported in the source package inside LICENSE file.
+
+Manual
+    The information related to the new features have been added.
+
+Bug Fixing
+Some of the fixed bugs are related to:
+    1. MSG_DONTWAIT flag under Windows;
+    2. Timeout calculation in OWDM mode;
+    3. Send time reported by remote log;
+    4. Inter-departure time statistical distribution accuracy.
+    5. Random number seed option.
+
+- v2.5: D-ITG 2.5 "INFOCOM 2007 Edition"
+New features
+    1. Preliminary SCTP support.
+    2. Preliminary DCCP support.
+    3. Support for three different types of log-info (-pl option). This feature allows to send smaller packets.
+    4. Currently it is possible to disable the strategy used to guarantee the mean bitrate (-j option).
+    5. Several new decoding features have been added to the decoder ITGDec
+	5.1. Reconstruction of receiver log files created by using the new log-info types (-r option).
+	5.2. Printing of the inter departure time of each packet (-? option).
+	5.3. Printing of the packet size of each packet (-j option).
+    6. Improved version of the manual.
+    7. Both an "install" and an "uninstall" options have been added to the Linux Makefile.
+
+Bug Fixing
+A massive work of stability fixes has been done.
+Some of the bugs fixed are related to:
+    1. the management of the log files at receiver side;
+    2. parsing of multiple flows; 
+    3. the decoding of log files.
+
+- v2.4: D-ITG 2.4(02) Decoder
+D-ITG Decoder
+    Errors coming out with gcc v3.4 compiler have been fixed
+
+- v2.4: D-ITG 2.4 GUI
+D-ITG Graphical User Interface:
+    This GUI is written in Java and should support any plattform D-ITG is and will be ported to. It supports all traffic settings of the version 2.4.
+
+- v2.4: Stable.
+A lot of bugs fixed:
+    1. Header VoIP packets;
+    2. Nagle algorithm settings
+    3. TCP packets receiving
+    4. More details in the documentation about the interaction between sender and receiver
+    5. rttm option by using the signaling channel
+    6. DS setting on Windows OSs
+    7. log options (-L, -l, etc.): default value
+    8. -f (TTL) option runs correctly on Linux OSs
+    9. ...
+
+A lot of improvements:
+    0. Software architecture has been deeply revised and optimized
+    1. -x (see the manual for details)
+    2. Currently the log server supports multiflows
+    3. New Decoder. It is able to determine a lot of output results (see the manual for details)
+    4. IPv6 traffic generation
+    5. Nagle option management via CLI
+    6. Sender port setting
+    7. Synchronization with the serial port (signal raising for each sent and received packet)
+    8. Packet payload filled in a random fashion
+    9. -P option (priority setting on Windows OSs)
+   10. -X option (more log servers are available, see the manual for details)
+
+- v2.3: Stable. A lot of bugs fixed.
+
+- v2.1: Stable. Windows makefile and Windows binary files.
+
+- v2.0: Multithread implementation and Windows version.
+
+- v1.1: TCP communication with Log Server was fixed and the performance was improved.
+
+- v1.0: TCP communication with Log Server was added.
+
+- v0.9: The first distributed version was released. The "Log Server" was introduced.
+
+- v0.2: TCP traffic generation was added.
+
+- v0.1: The first version. Only sender and receiver were present. UDP was the supported protocol.
+
+
+
+

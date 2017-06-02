@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Bsense
+Comment=BSense broadband monitoring system
+Exec=/opt/bsense/bsense
+Path=/opt/bsense/
+Terminal=false
+Type=Application
+Categories=Network;
+StartupNotify=false
+X-GNOME-Autostart-Delay=120

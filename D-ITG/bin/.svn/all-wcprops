@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/D-ITG/bin
+END
+ITGRecv
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/D-ITG/bin/ITGRecv
+END
+congestion_control_test_owdm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/D-ITG/bin/congestion_control_test_owdm.sh
+END
+congestion_control_test_tcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/D-ITG/bin/congestion_control_test_tcp.sh
+END
+congestion_control_test_udp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/D-ITG/bin/congestion_control_test_udp.sh
+END
+verification_downSERVER.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/D-ITG/bin/verification_downSERVER.sh
+END
+startServer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/D-ITG/bin/startServer.sh
+END
+ITGSend
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/D-ITG/bin/ITGSend
+END
+verification_up.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/D-ITG/bin/verification_up.sh
+END
+ITGDec
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/D-ITG/bin/ITGDec
+END
+verification_downCLIENT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/D-ITG/bin/verification_downCLIENT.sh
+END
+purgeProcesses.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/D-ITG/bin/purgeProcesses.sh
+END

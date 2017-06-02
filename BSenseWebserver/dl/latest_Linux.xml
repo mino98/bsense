@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE XML>
+<appname>
+  <version value="0.5.5" />
+  <files>
+    <file value="bsense" />
+    <file value="bin/ITGSend" />
+    <file value="bin/ITGRecv" />
+    <file value="bin/ITGDec" />
+  </files>
+</appname>
