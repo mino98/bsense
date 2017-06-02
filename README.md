@@ -9,3 +9,8 @@ Please refer to [this publication](https://link.springer.com/chapter/10.1007/978
 > Giacomo Bernardi, Damon Fenacci, Mahesh K. Marina and Dimitrios P. Pezaros. *BSense: a flexible and open-source broadband mapping framework.* In proceedings of Networking, May 2012. 
 
 and to Chapter 6 of my thesis, which is available [here](https://www.era.lib.ed.ac.uk/handle/1842/6241?show=full)
+
+Additionally, a few other articles:
+- *Technical Report:* Giacomo Bernardi and Mahesh K. Marina. *BSense: a system for enabling automated broadband census.* [pdf](https://minux.it/publications/BSense-techreport.pdf)
+- *Conference Paper:* Giacomo Bernardi and Mahesh K. Marina. *BSense: a system for enabling automated broadband census: short paper.* In proceedings of the 4th ACM Workshop on Networked Systems for Developing Regions (NSDR '10), June 2010. [here](http://dl.acm.org/citation.cfm?id=1836010)
+- *Whitepaper:* An analysis generated with the BSense system is included in the *Digital Scotland* report presented at the Scottish Parliament in Edinburgh, June 2010. [pdf](https://minux.it/publications/Digital-Scotland.pdf)
