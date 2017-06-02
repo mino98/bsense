@@ -18,7 +18,7 @@ Additionally, a few other articles:
 
 ## Sample screenshots of BSense:
 The initial form used to gather user’s details:
-![Screenshot](/screenshots/screenshot_form.png?raw=true)
+<p align="center"><img src="https://github.com/mino98/bsense/screenshots/screenshot_form.png?raw=true"></p>
 
 The agent icon and menu as it appears in Windows, Apple OSX and Linux:
 ![Screenshot](/screenshots/screenshot_menu.png?raw=true)
