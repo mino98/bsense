@@ -18,16 +18,16 @@ Additionally, a few other articles:
 
 ## Sample screenshots of BSense:
 The initial form used to gather user’s details:
-<p align="center"><img src="https://github.com/mino98/bsense/screenshots/screenshot_form.png?raw=true"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mino98/bsense/master/screenshots/screenshot_form.png"></p>
 
 The agent icon and menu as it appears in Windows, Apple OSX and Linux:
-![Screenshot](/screenshots/screenshot_menu.png?raw=true)
+<p align="center"><img src="https://raw.githubusercontent.com/mino98/bsense/master/screenshots/screenshot_menu.png"></p>
 
 Sample webpage showing the measurement results and statistics collected by BSense for a user’s broadband connection when the user clicks on the agent icon and selects the “Show my broadband statistics...” option from the menu:
-![Screenshot](/screenshots/screenshot_stats.png?raw=true)
+<p align="center"><img src="https://raw.githubusercontent.com/mino98/bsense/master/screenshots/screenshot_stats.png"></p>
 
 The web-based graphical tool in BSense to assist the administrator in specifying the parameters for each of the SAUs:
-![Screenshot](/screenshots/GuiUtilityFunction.png?raw=true)
+<p align="center"><img src="https://raw.githubusercontent.com/mino98/bsense/master/screenshots/GuiUtilityFunction.png"></p>
 
 The geographical web interface of BSense allows third parties (e.g., regulatory bodies and policy makers) to study the data gathered by the system, by visualising it on a map:
-![Screenshot](/screenshots/screenshot_geo.png?raw=true)
+<p align="center"><img src="https://raw.githubusercontent.com/mino98/bsense/master/screenshots/screenshot_geo.png"></p>
